@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     String[] animales = {
             "Gato",
             "Perro",
-            "León"
+            "Vaca"
     };
 
     @Override
